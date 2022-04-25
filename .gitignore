@@ -1,0 +1,25 @@
+# created by virtualenv automatically
+#
+# Python
+*.pyc
+*~
+__pycache__
+manage.py
+
+# Env
+.env
+bin/
+lib/
+pyvenv.cfg
+
+# Database
+db.sqlite
+
+# Static Folder
+/static/
+
+# Visual Studio
+.vscode/
+.history/
+*.code-workspace
+
